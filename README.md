@@ -2,6 +2,8 @@
 
 ## Slicing Travel Flutter App❤️✈️
 
+<h2><i class="fab fa-instagram"></i> Screenshots <i class="fas fa-camera"></i></h2>
+
 <table>
   <tr>
     <td align="center"><img src="https://i.postimg.cc/FHPtH65Q/Jepretan-Layar-2023-06-08-pukul-16-25-59.png" alt="Screenshot 1" width="300"></td>
@@ -15,5 +17,6 @@
   </tr>
 </table>
 
+[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/p/CtNrygVBCNv/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 </center>
