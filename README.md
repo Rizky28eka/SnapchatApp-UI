@@ -1,7 +1,7 @@
 
 # Snapchat UI
 
-DatingApp UI with flutter!❤
+Snapchat UI with flutter!❤
 
 
 ## Screenshots
