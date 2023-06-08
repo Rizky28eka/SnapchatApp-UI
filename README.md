@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-[Posting Instagram](https://www.instagram.com/p/CtM-emmBdm3/)
+[Posting Instagram](https://www.instagram.com/p/CtM-emmBdm3/){width=300}
