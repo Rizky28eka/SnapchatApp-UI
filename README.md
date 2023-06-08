@@ -4,17 +4,15 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://i.postimg.cc/4Yh28Bx8/Jepretan-Layar-2023-06-08-pukul-16-25-59.png" alt="Screenshot 1" width="300"></td>
-    <td align="center"><img src="https://i.postimg.cc/fkT24wbS/Jepretan-Layar-2023-06-08-pukul-16-26-11.png" alt="Screenshot 2" width="300"></td>
-    <td align="center"><img src="https://i.postimg.cc/XGxsZPsv/Jepretan-Layar-2023-06-08-pukul-16-26-16.png" alt="Screenshot 3" width="300"></td>
+    <td align="center"><img src="https://drive.google.com/uc?export=view&id=1eiA6ZXqgCx8b3e4eEGjzbd_5_dvlbEWm" alt="Screenshot 1" width="300"></td>
+    <td align="center"><img src="https://drive.google.com/uc?export=view&id=1d8TdSmscTSwCl4OuI2G0dMcF6GFfKvmC" alt="Screenshot 2" width="300"></td>
+    <td align="center"><img src="https://drive.google.com/uc?export=view&id=1kWWId3L3jJ4ZRWXYJYuvQH5q26ttJpkW" alt="Screenshot 3" width="300"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://i.postimg.cc/bSJ31R59/Jepretan-Layar-2023-06-08-pukul-16-30-44.png" alt="Screenshot 4" width="300"></td>
-    <td align="center"><img src="https://i.postimg.cc/9RcxQ2tS/Jepretan-Layar-2023-06-08-pukul-16-30-50.png" alt="Screenshot 5" width="300"></td>
+    <td align="center"><img src="https://drive.google.com/uc?export=view&id=1RzHWs-yrUy32q0IG3_bS4XzUZRRmzMu2" alt="Screenshot 4" width="300"></td>
+    <td align="center"><img src="https://drive.google.com/uc?export=view&id=1Ik1uVqO3YS18qzScbXxFNz4fhVTqHLEJ" alt="Screenshot 5" width="300"></td>
     <td></td>
   </tr>
 </table>
-
-[Instagram](https://www.instagram.com/p/CtNrygVBCNv/)
 
 </center>
