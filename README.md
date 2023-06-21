@@ -1,6 +1,6 @@
 <center>
 
-## Slicing Travel Flutter App❤️✈️
+## Slicing SnapChat App❤️✈️
 
 <h2><i class="fab fa-instagram"></i> Screenshots <i class="fas fa-camera"></i></h2>
 
